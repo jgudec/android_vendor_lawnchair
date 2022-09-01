@@ -46,8 +46,8 @@
         <permission name="android.permission.READ_DEVICE_CONFIG"/>
         <permission name="android.permission.EXPAND_STATUS_BAR"/>
         <permission name="android.permission.ROTATE_SURFACE_FLINGER"/>
-        <permission name="app.lawnchair.twelvel.permission.READ_SETTINGS"/>
-        <permission name="app.lawnchair.twelvel.permission.WRITE_SETTINGS"/>
-        <permission name="app.lawnchair.twelvel.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+        <permission name="app.lawnchair.permission.READ_SETTINGS"/>
+        <permission name="app.lawnchair.permission.WRITE_SETTINGS"/>
+        <permission name="app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
     </privapp-permissions>
 </permissions>
